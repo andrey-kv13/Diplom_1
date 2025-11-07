@@ -45,7 +45,7 @@ htmlcov/
 .coverage.*
 .cache
 nosetests.xml
-coverage.xml
+# coverage.xml  # Разрешено для PR
 *.cover
 *.py,cover
 .hypothesis/
